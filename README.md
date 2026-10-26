@@ -37,4 +37,3 @@ git clone [https://github.com/davide-raimondi/bubble-echoes.git](https://github.
 Sviluppato da **Davide Raimondi**.
 - **GitHub**: [@davide-raimondi](https://github.com/davide-raimondi)
 - **Instagram**: [@davide.raimondi94](https://www.instagram.com/davide.raimondi94)
-- 
